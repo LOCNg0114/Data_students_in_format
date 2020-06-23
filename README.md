@@ -9,3 +9,4 @@
 • Noted: data row must be align like the head row
 
 >> Calculate and show the average height and average weight of these students
+Noted: testcase in folder Student_data_format
